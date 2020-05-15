@@ -3,6 +3,10 @@
 | Dev    | [![Build Status](https://travis-ci.org/fw4spl-org/fw4spl.svg?branch=dev)](https://travis-ci.org/fw4spl-org/fw4spl) |
 | Master | [![Build Status](https://travis-ci.org/fw4spl-org/fw4spl.svg?branch=master)](https://travis-ci.org/fw4spl-org/fw4spl) |
 
+:warning: Discontinued
+============
+
+As of 1st January 2019, fw4spl has been renamed into [Sight](https://github.com/IRCAD-IHU/sight), the Surgical Image Guidance and Healthcare Toolkit. Please switch to Sight, we will no longer provide any support to fw4spl.
 
 Description
 ===========
